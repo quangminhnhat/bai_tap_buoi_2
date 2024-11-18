@@ -1,0 +1,7 @@
+E:\program test\C#\bai_tap_buoi_2\bai_tap_buoi_2\bin\Debug\bai_tap_buoi_2.exe.config
+E:\program test\C#\bai_tap_buoi_2\bai_tap_buoi_2\bin\Debug\bai_tap_buoi_2.exe
+E:\program test\C#\bai_tap_buoi_2\bai_tap_buoi_2\bin\Debug\bai_tap_buoi_2.pdb
+E:\program test\C#\bai_tap_buoi_2\bai_tap_buoi_2\obj\Debug\bai_tap_buoi_2.csproj.AssemblyReference.cache
+E:\program test\C#\bai_tap_buoi_2\bai_tap_buoi_2\obj\Debug\bai_tap_buoi_2.csproj.CoreCompileInputs.cache
+E:\program test\C#\bai_tap_buoi_2\bai_tap_buoi_2\obj\Debug\bai_tap_buoi_2.exe
+E:\program test\C#\bai_tap_buoi_2\bai_tap_buoi_2\obj\Debug\bai_tap_buoi_2.pdb
