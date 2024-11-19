@@ -8,9 +8,9 @@ namespace bai_tap_buoi_2
 {
     internal class sinhvien
     {
-        public int ID;
-        public string name;
-        public int age;
+        internal int ID;
+        internal string name;
+        internal int age;
 
         
 
